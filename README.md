@@ -3,4 +3,4 @@
 Subir el certificado del curso habiéndolo terminado
 
 ## Cerificado
-:paperclip: ![Archivo adjunto de la actividad](IgnacioRomero-Introducción\ a\ l-certificate.pdf) 
+:paperclip: ![Archivo adjunto de la actividad](IgnacioRomero-Introducción-al-certificate.pdf) 
